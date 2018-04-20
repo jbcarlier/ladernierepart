@@ -1,0 +1,51 @@
+h1{
+	color: red;
+	font-family: 'Anton', sans-serif;
+	text-align: center;
+}
+
+p{color: blue;
+	font-size: 20px;
+	font-family: 'Crimson Text', serif;
+}
+body{
+	color:orange;
+	background: #F1E7D2;
+}
+
+
+
+#banner {
+	padding-top: 40px;
+	padding-bottom: 40px;
+	text-align: center;
+	background: rgb(10,10,10);
+}
+
+#logo {
+	margin-right: auto;
+	margin-left:auto; 
+}
+
+.power {
+	width: 100px;
+	height: 100px;
+}
+.cliquez-ici {
+	text-align: center;
+	background-color: #FECF34;
+	text-decoration: none;
+}
+
+.bolivie {
+	text-align: center;
+}
+
+.bolivie p {
+	text-align: left;
+}
+
+.features{
+	text-align: center;
+}
+
